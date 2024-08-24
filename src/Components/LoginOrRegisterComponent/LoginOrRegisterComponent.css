@@ -1,0 +1,10 @@
+.btn {
+    transition: 0.8s linear !important;
+    outline: none !important;
+}
+
+
+.btn:hover {
+    background-color: #00ba7f;
+    color: white !important;;
+}
